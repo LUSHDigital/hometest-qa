@@ -6,16 +6,16 @@ The developer in charge of the API part of this project has provided the followi
 
 ## A note on the files
 
-### Running on Macs
+### Running on Macs and Linux
 
 Once downloaded, you'll want to run the application from the terminal.  The file won't have execute permissions by default, so run the following to open the application:
 
 ``` bash
 $ cd ~/Downloads
 
-$ chmod +x qa_api_mac
+$ chmod +x <FILE_NAME>
 
-$ ./qa_api_mac
+$ ./<FILE_NAME>
 ```
 
 ### Integrity
@@ -24,6 +24,7 @@ If you'd like to check the integrity of the files you download, here are the SHA
 
 ``` bash
 19f4fd7c7cfa2b033e89456df6437770a9c8a30409e8bb193235e0a83c189213  qa_api_mac
+f0be5c4d1bd8d3eb9a79692749f43a84f040736bef43778cfc0733358cb1764a  qa_api_lin
 c64a035157bae437a197c4e4e20e14997859136eeb4387d5d961cd484b1ef676  qa_api_win.exe
 ```
 
