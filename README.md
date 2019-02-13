@@ -11,8 +11,6 @@ The developer in charge of the API part of this project has provided the followi
 Once downloaded, you'll want to run the application from the terminal.  The file won't have execute permissions by default, so run the following to open the application:
 
 ``` bash
-$ cd ~/Downloads
-
 $ chmod +x <FILE_NAME>
 
 $ ./<FILE_NAME>
