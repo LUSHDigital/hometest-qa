@@ -29,7 +29,7 @@ c64a035157bae437a197c4e4e20e14997859136eeb4387d5d961cd484b1ef676  qa_api_win.exe
 
 ## Users
 
-The service has been configured the service with 3 users, it's not currently possible to create new users but you'll be able to test with one of these:
+The service has been configured with 3 users, it's not currently possible to create new users but you'll be able to test with one of these:
 
 | Username | Password |
 |-|-|
