@@ -2,9 +2,9 @@
 
 Our largest client Ms. Marple, runs the 17th largest online Jam Emporium in Staines-upon-Thames.  To help her reach all of her devoted customers, we're in the process of swapping out her monolithic Drupal backend with a spangly new one.
 
-The developer in charge of the API part of this project has provided the following documentation along with an executable file which runs a service on port 8080.  Before we give it the go ahead for a production release to Ms. Marple's website, we'd like you to put it through its paces and come back to us with your findings.  Sorry to have to chuck it over the dev/test fence!
+The developer in charge of the API part of this project has provided the following documentation along with an executable file (`qa_api_mac` for Mac users and `qa_api_win.exe` for Windows users) which runs a service on port 8080.  Before we give it the go ahead for a production release to Ms. Marple's website, we'd like you to put it through its paces and come back to us with your findings.  Sorry to have to chuck it over the dev/test fence!
 
-## SHA 256 hash sums
+## SHA256 digest
 
 If you'd like to check the integrity of the files you download, here are the SHA256 digests:
 
