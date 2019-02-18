@@ -4,6 +4,12 @@ Our largest client Ms. Marple, runs the 17th largest online Jam Emporium in Stai
 
 The developer in charge of the API part of this project has provided the following documentation along with an executable file (`qa_api_mac` for Mac users, `qa_api_lin` for Linux users and `qa_api_win.exe` for Windows users) which runs a service on port 8080.  Before we give it the go ahead for a production release to Ms. Marple's website, we'd like you to put it through its paces and come back to us with your findings.  Sorry to have to chuck it over the dev/test fence!
 
+## What we're hoping to see
+
+* As many bugs as you can find in the service (there are bugs ranging from very minor to very serious).
+* Notes on your approach to testing the API and why you've undertaken the type(s) of testing you have.
+* Any automation is a plus.
+
 ## A note on the files
 
 ### Running on Macs and Linux
